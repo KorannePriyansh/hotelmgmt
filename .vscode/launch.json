@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Hotel Management System",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "Run Automated Tests",
+            "request": "launch",
+            "mainClass": "TestRunner"
+        },
+        {
+            "type": "java",
+            "name": "Database Setup",
+            "request": "launch",
+            "mainClass": "database.DatabaseSetup"
+        }
+    ]
+}

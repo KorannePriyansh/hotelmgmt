@@ -1,0 +1,11 @@
+# Compiled Java class files
+bin/
+*.class
+
+# Temporary backups
+backup/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
